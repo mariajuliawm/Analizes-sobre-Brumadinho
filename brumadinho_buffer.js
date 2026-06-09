@@ -1,3 +1,9 @@
+/*
+Projeto: Análise de Impacto Ambiental - Brumadinho
+Autor: Maria Júlia Wada Morelli
+Descrição: Este código tem como objetivo analisar o impacto ambiental causado pelo rompimento da barragem B1 em Brumadinho, Minas Gerais, utilizando dados de satélite Sentinel-2. O foco principal é a avaliação da vegetação e corpos d'água na região afetada, por meio do cálculo de índices como NDVI, EVI e MNDWI. O código também inclui a detecção de áreas com redução significativa de vegetação e a quantificação da área afetada, além de gerar gráficos para visualizar as mudanças ao longo do tempo.
+*/
+
 // 1 - ÁREA DE ESTUDO:
 
 // define as coordenadas:
